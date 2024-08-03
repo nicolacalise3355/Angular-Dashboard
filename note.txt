@@ -1,0 +1,10 @@
+
+- Login Page
+- StatsPage (homepage)
+- MapPage 
+
+StatsPage e MapPage hanno layout 
+
+- tailwind
+- maps 
+- 
